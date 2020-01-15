@@ -8,4 +8,6 @@ class Application
       resp.write "Good Morning!"
     end
     
-  resp.finish
+    resp.finish
+  end
+end
